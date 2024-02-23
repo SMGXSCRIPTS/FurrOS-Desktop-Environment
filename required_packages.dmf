@@ -2,3 +2,6 @@ openbox
 zutty
 mesa-utils
 mesa
+gcc
+base-devel
+sdl2
